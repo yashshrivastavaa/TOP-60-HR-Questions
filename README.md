@@ -25,7 +25,14 @@ HR Interviews are mostly the final round of the recruitment process. This interv
 </div>
 
 <div>
-<div align="left">HELLO</div><div align="right">Hello</div>
+<div align="left">
+> 1.Know about the Company
+> Get to know about the company by visiting their social media profiles(LinkedIn, Insta), Wikipedia page and homepage
+</div>
+<div align="right">
+> 2.Know about the Role
+> Research what the job profile entails and what qualties/skills you should have for this role.
+</div>
 </div>
 
 &nbsp;
