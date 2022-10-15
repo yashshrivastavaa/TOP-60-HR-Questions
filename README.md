@@ -24,16 +24,18 @@ HR Interviews are mostly the final round of the recruitment process. This interv
 # HR Interview Preparation - Important Points
 </div>
 
-<div>
-<p align="left">
+
 > 1.Know about the Company
 > Get to know about the company by visiting their social media profiles(LinkedIn, Insta), Wikipedia page and homepage
-</p>
-<p align="right">
+
 > 2.Know about the Role
 > Research what the job profile entails and what qualties/skills you should have for this role.
-</p>
-</div>
+
+> 3.Prepare Answers
+> Practice your answers before the interview, but do not recite them in front of the HR interviewer.
+
+> 4.Be calm and confident
+> Lastly stay calm and composed during the interview. Be confident in your answers and do not be nervous.
 
 &nbsp;
 ## 🧑🏻About Us
