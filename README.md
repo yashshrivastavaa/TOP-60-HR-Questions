@@ -5,7 +5,7 @@
 **<h3 align="center">These TOP 60 HR Questions are the best selected question to help you enhance your skills, expand your knowledge and prepare for HR Interview from BASIC to ADVANCE.</h3>**
 
 ---
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ## What are HR Interviews?
 
 HR Interviews are mostly the final round of the recruitment process. This interview revolves around the candidate’s personality, behavior, ability to stay calm and more. On this page you will find the complete guide to cracking HR Interviews for all service based and product based companies, including questions asked in TCS HR Interview, Wipro HR Interview and more.
