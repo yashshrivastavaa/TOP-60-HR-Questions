@@ -3,7 +3,7 @@
 **<h3 align="center">This repository contains mostly asked TOP 60 HR Interview Questions</h3>**
 
 **<h3 align="center">These TOP 60 HR Questions are the best selected question to help you enhance your skills, expand your knowledge and prepare for HR Interview from BASIC to ADVANCE.</h3>**
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ## What are HR Interviews?
@@ -13,13 +13,18 @@ HR Interviews are mostly the final round of the recruitment process. This interv
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div align="center">
 <h2>Why are HR Interviews conducted?</h2>
-### HR Interviews are conducted to check whether a candidate posses the following qualities:-
+
+<p>HR Interviews are conducted to check whether a candidate posses the following qualities:-</p>
+
 &nbsp;&nbsp;
 <img src="Assets/IMG.jpeg"/>
 
 # HR Interview Preparation - Important Points
 </div>
 
+<div>
+<div align="left">HELLO</div><div align="right">Hello</div>
+</div>
 
 &nbsp;
 ## 🧑🏻About Us
