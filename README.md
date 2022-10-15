@@ -25,23 +25,24 @@ HR Interviews are mostly the final round of the recruitment process. This interv
 </div>
 
 
-**1.Know about the Company**
+**1. Know about the Company**
 
 > Get to know about the company by visiting their social media profiles(LinkedIn, Insta), Wikipedia page and homepage
 
-**2.Know about the Role**
+**2. Know about the Role**
 
 > Research what the job profile entails and what qualties/skills you should have for this role.
 
-**3.Prepare Answers**
+**3. Prepare Answers**
 
 > Practice your answers before the interview, but do not recite them in front of the HR interviewer.
 
-**4.Be calm and confident**
+**4. Be calm and confident**
 
 > Lastly stay calm and composed during the interview. Be confident in your answers and do not be nervous.
 
-&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 ## 🧑🏻About Us
 
 &nbsp;
