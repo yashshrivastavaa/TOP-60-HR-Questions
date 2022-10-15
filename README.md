@@ -10,7 +10,19 @@
 
 HR Interviews are mostly the final round of the recruitment process. This interview revolves around the candidate’s personality, behavior, ability to stay calm and more. On this page you will find the complete guide to cracking HR Interviews for all service based and product based companies, including questions asked in TCS HR Interview, Wipro HR Interview and more.
 
+<div align="center">
+<h2>Why are HR Interviews conducted?</h2>
+***HR Interviews are conducted to check whether a candidate posses the following qualities:-***
+<img src="Assets/IMG.jpeg"/>
 
+# HR Interview Preparation - Important Points
+</div>
+<div>
+<div>
+HELLO</div>
+<div>
+HELLO 2</div>
+</div>
 
 &nbsp;
 ## 🧑🏻About Us
