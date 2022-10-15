@@ -12,17 +12,13 @@ HR Interviews are mostly the final round of the recruitment process. This interv
 
 <div align="center">
 <h2>Why are HR Interviews conducted?</h2>
-***HR Interviews are conducted to check whether a candidate posses the following qualities:-***
+### HR Interviews are conducted to check whether a candidate posses the following qualities:-
+&nbsp;&nbsp;
 <img src="Assets/IMG.jpeg"/>
 
 # HR Interview Preparation - Important Points
 </div>
-<div>
-<div>
-HELLO</div>
-<div>
-HELLO 2</div>
-</div>
+
 
 &nbsp;
 ## 🧑🏻About Us
